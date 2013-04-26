@@ -1,0 +1,49 @@
+/* EXTERNAL */
+
+@import url(reset.css);
+@import url(null.css);
+@import url(forms.css);
+@import url(respond.css);
+
+/* GLOBALS */
+
+html {
+height: 100%;
+}
+body {
+background: #fff;
+text-align: center;
+font: 13px/18px Arial, sans-serif;
+color: #555;
+}
+a {
+color: #0ff;
+text-decoration: none;
+}
+a:hover {
+text-decoration: none;
+}
+i {
+width: 100%;
+height: 100%;
+display: inline-block;
+}
+
+/* UTILITY CLASSES */
+
+.btn {
+background-repeat: no-repeat;
+display: inline-block;
+}
+.left {
+float: left;
+}
+.right {
+float: right;
+}
+.block {
+display: block;
+}
+.hidden {
+display: none;
+}
