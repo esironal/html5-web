@@ -7,9 +7,9 @@ Lightweight HTML5 responsive web GUI set up. Includes Twitter Bootstrap scaffold
 
 Add LESS support
 
-Add respond.js for < IE9
+<s>Add respond.js for < IE9</s>
 
-Remove css/null.css
+<s>Remove css/null.css</s>
 
 Require.js for heavy script applications
 
