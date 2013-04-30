@@ -3,7 +3,7 @@
 @import url(reset.css);
 @import url(null.css);
 @import url(forms.css);
-@import url(respond.css);
+@import url(layout.css);
 
 /* GLOBALS */
 
@@ -24,16 +24,14 @@ a:hover {
 text-decoration: none;
 }
 i {
-width: 100%;
-height: 100%;
 display: inline-block;
 }
 
 /* UTILITY CLASSES */
 
 .btn {
-background-repeat: no-repeat;
 display: inline-block;
+position: relative;
 }
 .left {
 float: left;
