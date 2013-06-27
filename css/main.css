@@ -18,7 +18,7 @@ height: 100%;
 body {
 background: #fff;
 text-align: center;
-font: 13px/18px Arial, sans-serif;
+font: 100%/130% sans-serif;
 color: #555;
 }
 a {
@@ -49,4 +49,11 @@ display: block;
 }
 .hidden {
 display: none;
+visibility: hidden;
+}
+.text-center {
+text-align: center;
+}
+.text-right {
+text-align: right;
 }
