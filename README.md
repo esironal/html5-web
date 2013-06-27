@@ -7,21 +7,21 @@ Lightweight HTML5 responsive web GUI set up in PHP. Includes Twitter Bootstrap s
 
 <b>To Do</b>
 
-~~LESS support~~
+LESS support
 
 LESSify external CSS
 
 ~~Add respond.js for < IE9~~
 
-Require.js
+<!--Require.js-->
 
-.htaccess for PHP extensions
+<!--.htaccess for PHP extensions-->
 
 <br>
 
 <b>Version History</b>
 
-0.1.2 - Added LESS support from http://leafo.net/lessphp/
+<!--0.1.2 - Added LESS support from http://leafo.net/lessphp/-->
 
 0.1.1 - Added respond.js, CSS tweaks
 
