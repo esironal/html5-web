@@ -7,6 +7,12 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="icon" type="image/png" href="img/icon.png">
 	<link rel="stylesheet" type="text/css" href="css/main.css">
+	<?php
+		// add null css if local
+		if ($_SERVER['SERVER_NAME'] === 'localhost') {
+			echo '<link rel="stylesheet" type="text/css" href="css/null.css">';
+		}
+	?>
 	<!--[if lt IE 9]>
 	<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 	<script src="js/respond.js"></script>

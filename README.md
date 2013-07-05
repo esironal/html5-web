@@ -23,6 +23,8 @@ LESSify external CSS
 
 <!--0.1.2 - Added LESS support from http://leafo.net/lessphp/-->
 
+0.1.2 - Changed to PHP, added null.css only if running locally
+
 0.1.1 - Added respond.js, CSS tweaks
 
 0.1 - Initial

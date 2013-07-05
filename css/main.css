@@ -1,7 +1,6 @@
 /* EXTERNAL */
 
 @import url(reset.css);
-@import url(null.css);
 @import url(forms.css);
 @import url(layout.css);
 
@@ -57,3 +56,5 @@ text-align: center;
 .text-right {
 text-align: right;
 }
+
+/* UI ELEMENTS */
