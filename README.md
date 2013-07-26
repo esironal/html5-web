@@ -19,7 +19,7 @@ Lightweight HTML5 responsive web GUI set up in PHP. Includes Twitter Bootstrap s
 
 <b>Version History</b>
 
-0.1.2 - Got sassy (SCSS)
+0.1.3 - Got sassy (SCSS)
 
 0.1.2 - Changed to PHP, added null.css only if running locally
 
