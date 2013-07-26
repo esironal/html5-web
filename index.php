@@ -8,7 +8,7 @@
 	<link rel="icon" type="image/png" href="img/icon.png">
 	<link rel="stylesheet" type="text/css" href="css/main.css">
 	<?php
-		// add null css if local
+		// add null css if local (for dev only)
 		if ($_SERVER['SERVER_NAME'] === 'localhost') {
 			echo '<link rel="stylesheet" type="text/css" href="css/null.css">';
 		}

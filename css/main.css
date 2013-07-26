@@ -11,7 +11,8 @@
 -webkit-box-sizing: border-box;
 box-sizing: border-box;
 }
-html {
+html,
+body {
 height: 100%;
 }
 body {
