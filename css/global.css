@@ -1,53 +1,59 @@
+/* VARS */
+/* GLOBALS */
 * {
--moz-box-sizing: border-box;
--webkit-box-sizing: border-box;
-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
 }
+
 html,
 body {
-height: 100%;
+  height: 100%;
 }
+
 body {
-background: #fff;
-text-align: center;
-font: 100%/130% sans-serif;
-color: #555;
+  background: #fff;
+  text-align: center;
+  font: 100%/130% sans-serif;
+  color: #333333;
 }
+
 a {
-color: #0ff;
-text-decoration: none;
+  color: #3399ee;
+  text-decoration: none;
 }
 a:hover {
-text-decoration: none;
-}
-i {
-display: inline-block;
+  color: #333333;
 }
 
 /* UTILITY CLASSES */
-
-.btn {
-display: inline-block;
-position: relative;
-}
 .left {
-float: left;
+  float: left;
 }
+
 .right {
-float: right;
+  float: right;
 }
+
 .block {
-display: block;
+  display: block;
 }
+
 .hidden {
-display: none;
-visibility: hidden;
+  display: none;
+  visibility: hidden;
 }
+
 .text-center {
-text-align: center;
+  text-align: center;
 }
+
 .text-right {
-text-align: right;
+  text-align: right;
 }
 
 /* UI ELEMENTS */
+i,
+.btn {
+  display: inline-block;
+}
