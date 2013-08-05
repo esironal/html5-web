@@ -1,0 +1,53 @@
+* {
+-moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;
+}
+html,
+body {
+height: 100%;
+}
+body {
+background: #fff;
+text-align: center;
+font: 100%/130% sans-serif;
+color: #555;
+}
+a {
+color: #0ff;
+text-decoration: none;
+}
+a:hover {
+text-decoration: none;
+}
+i {
+display: inline-block;
+}
+
+/* UTILITY CLASSES */
+
+.btn {
+display: inline-block;
+position: relative;
+}
+.left {
+float: left;
+}
+.right {
+float: right;
+}
+.block {
+display: block;
+}
+.hidden {
+display: none;
+visibility: hidden;
+}
+.text-center {
+text-align: center;
+}
+.text-right {
+text-align: right;
+}
+
+/* UI ELEMENTS */
