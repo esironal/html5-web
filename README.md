@@ -7,6 +7,8 @@ Lightweight HTML5 responsive web GUI set up in PHP. Includes Twitter Bootstrap s
 
 <b>To Do</b>
 
+Upgrade Bootstrap to v3
+
 ~~SCSS support~~
 
 ~~SCSS external CSS~~
