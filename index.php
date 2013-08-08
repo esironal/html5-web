@@ -14,6 +14,7 @@
 		}
 	?>
 	<!--[if lt IE 9]>
+	<link rel="stylesheet" type="text/css" href="css/layout.css">
 	<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 	<script src="js/respond.js"></script>
 	<![endif]-->
@@ -29,7 +30,6 @@
 	<footer class="site-footer">
 	</footer>
 
-	<!--<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>-->
 	<script src="js/main.js"></script>
 
 </body>
